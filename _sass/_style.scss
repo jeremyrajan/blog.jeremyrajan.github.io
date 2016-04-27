@@ -1,0 +1,59 @@
+#title {
+    position: relative;
+    top: 22px;
+    left: 10px;
+    font-size: 11px;
+    color: crimson;
+}
+.read-on {
+    padding: 3px;
+    font-size: 12px;
+    text-transform: uppercase;
+    float: right;
+    clear: both;
+    color: cornflowerblue;
+    cursor: pointer;
+}
+
+.fa-heart{
+  color: hotpink;
+}
+
+slogan{
+  color: cornflowerblue;
+  font-weight: bold;
+}
+
+/* Absolute Center Spinner */
+.loading {
+  position: fixed;
+  z-index: 999;
+  height: 2em;
+  width: 2em;
+  overflow: show;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 280px;
+  background: white;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  font-family: tahoma;
+  line-height: 26px;
+  font-size: 16px;
+}
+
+/* Transparent Overlay */
+.overlay {
+  content: '';
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.8);
+}
