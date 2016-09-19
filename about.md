@@ -7,6 +7,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 I know, i know... what in the world! I am thinking, what should go here :smile:
 
-In the mean time, you might be interested in [this][1]
+In the mean time, you might be interested in [this][1]!
 
 [1]: http://jeremyrajan.com/docs/resume.pdf
