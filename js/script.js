@@ -9,4 +9,7 @@ function changeHeart(elem) {
 $(document).ready( function () {
   changeHeart($('.post-link'));
   changeHeart($('.post-title'));
+  $('article a').each(function (ix, a) {
+      a.target = '_blank';
+  });
 });
