@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: My Blog
+title: Blog
 email: jeremyrajan@gmail.com
 description: 'Software Engineer by day, freelancer by night. I love application
   development, something which I am passionate about. <br/>
@@ -21,3 +21,4 @@ markdown: kramdown
 
 gems:
   - jemoji
+  - jekyll-time-to-read
