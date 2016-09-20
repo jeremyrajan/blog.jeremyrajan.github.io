@@ -15,6 +15,14 @@ layout: default
         <p>
           {{ post.content | strip_html | truncatewords: 50 }}
         </p>
+        <small class="read-time">
+            {% assign words = post.content | number_of_words %}
+            {% if words < 360 %}
+            1 min read
+            {% else %}
+            {{ words | divided_by:180 }} mins read
+            {% endif %}
+        </small>
         <a class="read-on" href="{{ post.url | prepend: site.baseurl }}">Read On <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
       </li>
     {% endfor %}
