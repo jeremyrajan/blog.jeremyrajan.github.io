@@ -40,7 +40,9 @@ Following is my TODO list on it:
 - [ ] Live reload using electron connect.
 
 
-Let me know, what you guys think! I will posting updates here, whenever new changes are released.
+Let me know, what you guys think! 
+
+I will be posting updates here, whenever new changes are released.
 
 
 [1]: http://nwjs.io/
