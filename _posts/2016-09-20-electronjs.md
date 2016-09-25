@@ -24,6 +24,24 @@ Today I will be discussing on how I organize and setup electron apps with featur
 
 ![image](https://cloud.githubusercontent.com/assets/2890683/18678453/ad368884-7f8e-11e6-96f0-3cfd692f8149.png)
 
+I am currently working on a boilerplate to setup a electronJS project with ReactJS & Webpack (with x64 packaging). Checkout the repo [here][12] and let me know your thoughts.
+Contributions are always welcome :smile:. Currently it supports:
+
+
+- [x] ReactJS (ES6)
+- [x] Packaging (x64, Mac & Win)
+- [x] SASS
+
+
+Following is my TODO list on it:
+
+
+- [ ] Auto Update (without Squirrel)
+- [ ] Live reload using electron connect.
+
+
+Let me know, what you guys think! I will posting updates here, whenever new changes are released.
+
 
 [1]: http://nwjs.io/
 [2]: http://cheng.guru/blog/2016/05/13/from-node-webkit-to-electron-1-0.html
@@ -36,3 +54,4 @@ Today I will be discussing on how I organize and setup electron apps with featur
 [9]: https://sqlectron.github.io/
 [10]: https://github.com/mafintosh/playback
 [11]: https://appear.in
+[12]: https://github.com/jeremyrajan/electron-starter
