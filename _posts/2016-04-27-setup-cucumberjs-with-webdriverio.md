@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Setup CucumberJS with WebdriverIO
 ---
 

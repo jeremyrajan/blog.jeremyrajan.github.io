@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Electron - When JS comes to Desktop Apps
 ---
 
