@@ -25,7 +25,9 @@ Today I will be discussing on how I organize and setup electron apps with featur
 ![image](https://cloud.githubusercontent.com/assets/2890683/18678453/ad368884-7f8e-11e6-96f0-3cfd692f8149.png)
 
 I am currently working on a boilerplate to setup a electronJS project with ReactJS & Webpack (with x64 packaging). Checkout the repo [here][12] and let me know your thoughts.
-Contributions are always welcome :smile:. Currently it supports:
+Contributions are always welcome :smile:. 
+
+Currently it supports:
 
 
 - [x] ReactJS (ES6)
