@@ -19,5 +19,5 @@ github_username:  jeremyrajan
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jemoji
